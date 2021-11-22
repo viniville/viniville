@@ -1,16 +1,10 @@
-# Hi, I'm Vinicius Lima Ville! 👋
+# Hi, I'm Vinicius Ville! 👋
 
 
 - 🔭 Java Software Developer at DBC Company
 - 🌱 Java EE, Spring Boot, Spring MVC | Oracle, Sybase, PostgreSQL, MySQL, MongoDB | Docker, K8s
 - 🤓 I’m currently learning [Python] and [Rust]
 - 📜 Computer Science at [Unisinos]
-
-
-## Contact
-[![Linkedin: viniville](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-ville/)](https://www.linkedin.com/in/vinicius-ville/) 
-[![Instagram: viniville](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/viniville)](https://www.instagram.com/viniville)
-[![Gmail: viniville](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:viniville@gmail.com)](mailto:viniville@gmail.com)
 
 ## Tecnology Stack:
 
@@ -28,6 +22,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
+## Contact:
+[![Linkedin: viniville](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-ville/)](https://www.linkedin.com/in/vinicius-ville/) 
+[![Instagram: viniville](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/viniville)](https://www.instagram.com/viniville)
+[![Gmail: viniville](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:viniville@gmail.com)](mailto:viniville@gmail.com)
 
 [Unisinos]: http://www.unisinos.br
 [Python]: https://www.python.org
