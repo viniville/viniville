@@ -23,9 +23,9 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Contact:
-[![Linkedin: viniville](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-ville/)](https://www.linkedin.com/in/vinicius-ville/) 
-[![Instagram: viniville](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/viniville)](https://www.instagram.com/viniville)
-[![Gmail: viniville](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:viniville@gmail.com)](mailto:viniville@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-ville/)](https://www.linkedin.com/in/vinicius-ville/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/viniville)](https://www.instagram.com/viniville)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:viniville@gmail.com)](mailto:viniville@gmail.com)
 
 [Unisinos]: http://www.unisinos.br
 [Python]: https://www.python.org
