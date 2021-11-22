@@ -1,16 +1,14 @@
-### Hi there 👋
+### Vinicius Lima Ville 👋
 
-<!--
-**viniville/viniville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Java Software Developer at DBC Company
+- 🌱 Java EE, Spring Boot, Spring MVC | Oracle, Sybase, PostgreSQL, MySQL | Docker, K8s
+- 🤓 I’m currently learning Python and Rust
+- 📜 Computer Science at [Unisinos]
+- 📫 How to reach me: [Linkedin] | [Instagram] | [Gmail]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[Linkedin]: https://www.linkedin.com/in/vinicius-ville
+[Instagram]: https://www.instagram.com/viniville
+[Gmail]: mailto:viniville@gmail.com
+[Unisinos]: http://www.unisinos.br
