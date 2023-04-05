@@ -1,8 +1,8 @@
 # Hi, I'm Vinicius Ville! 👋
 
 
-- 🔭 Java Software Developer at DBC Company
-- 🌱 Java EE, Spring Boot, Spring MVC | Oracle, Sybase, PostgreSQL, MySQL, MongoDB | Docker, K8s
+- 🔭 Software Architect at Ticket Log | Edenred
+- 🌱 Java EE, Spring Boot, Spring MVC | Oracle, Sybase, PostgreSQL, MySQL, MongoDB | Docker, K8s, AKS | Azure, AWS
 - 🤓 I’m currently learning [Python] and [Rust]
 - 📜 Computer Science at [Unisinos]
 
